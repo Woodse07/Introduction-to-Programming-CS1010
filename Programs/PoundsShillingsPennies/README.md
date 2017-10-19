@@ -5,8 +5,8 @@
 1 old pound = 20 old shillings<br />
 1 new pound = 100 new pennies<br />
  
-e.g.<b/>
-  1 old pound, 0 old shilling and 0 old pence = £160.80<br />
+e.g.<br/>
+ 1 old pound, 0 old shilling and 0 old pence = £160.80<br />
  0 old pound, 1 old shilling and 0 old pence = £8.04<br />
  0 old pound, 0 old shilling and 1 old pence = £0.67<br />
  3 old pound, 2 old shilling and 5 old pence = £501.83<br />
