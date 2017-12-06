@@ -1,4 +1,4 @@
-****Rational Numbers Data Type and Test Client.
+#### Rational Numbers Data Type and Test Client.
 
 In mathematics, a rational number is any number that can be expressed as the quotient or fraction a/b of two integers: a (the numerator) and b (the denominator), with b not equal to zero [see http://en.wikipedia.org/wiki/Rational_number]. Since b (the denominator) may be equal to 1, every integer is also a rational number.  
 
